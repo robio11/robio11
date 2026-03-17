@@ -34,21 +34,6 @@ I’m a passionate Full Stack Developer who loves building fast, scalable, and u
 
 ---
 
-## 📌 Featured Projects  
-
-🔹 **MERN Stack Project**  
-Full-stack application with authentication, APIs, and database integration  
-
-🔹 **Business Website**  
-Responsive website built for real client requirements  
-
-🔹 **Dynamic Web Apps**  
-Interactive UI with API integrations  
-
-👉 *(Add your project links here)*  
-
----
-
 ## 🌱 Currently Learning  
 - Advanced Next.js  
 - System Design  

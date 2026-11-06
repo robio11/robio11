@@ -1,11 +1,11 @@
-# Hi 👋, I'm Rachana  
-### 🚀 Full Stack (MERN) Developer  
+# Hi , I'm Rachana  
+###  Full Stack (MERN) Developer  
 
 I’m a passionate Full Stack Developer who loves building fast, scalable, and user-friendly web applications. I focus on writing clean code and creating real-world solutions.
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 **Frontend**  
 - React.js  
@@ -26,7 +26,7 @@ I’m a passionate Full Stack Developer who loves building fast, scalable, and u
 
 ---
 
-## 💼 What I Do  
+##  What I Do  
 - Build responsive and dynamic web applications  
 - Develop full-stack MERN projects  
 - Work on real client-based projects  
@@ -34,25 +34,25 @@ I’m a passionate Full Stack Developer who loves building fast, scalable, and u
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 - Advanced Next.js  
 - System Design  
 - Performance Optimization  
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 
 - LinkedIn: https://www.linkedin.com/in/rachana-meena-785387195/ 
 - Email: 249rachanameena@gmail.com  
 
 ---
 
-## ⚡ About Me  
-- 💻 1+ year experience in Full Stack Development  
-- 🔥 Strong in MERN Stack  
-- 🎯 Focused on building scalable and clean applications  
+##  About Me  
+-  1+ year experience in Full Stack Development  
+-  Strong in MERN Stack  
+-  Focused on building scalable and clean applications  
 
 ---
 
-⭐ *Open to opportunities as a Full Stack / MERN Developer*  
+ *Open to opportunities as a Full Stack / MERN Developer*  
